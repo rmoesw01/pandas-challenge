@@ -3,9 +3,9 @@
 ## HeroesOfPymoli 
 
 ### Assignment Description
-    Analyze the data for an independent gaming company's most recent fantasy game *Heroes of Pymoli*.
+>Analyze the data for an independent gaming company's most recent fantasy game *Heroes of Pymoli*.
 
-    Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company has requested a generated report that breaks down the game's purchasing data into meaningful insights.
+>Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company has requested a generated report that breaks down the game's purchasing data into meaningful insights.
 
 ### Data Analysis Calculations
 * Purchase analysis for all purchases
