@@ -21,3 +21,5 @@
 1. The largest percentage of the purchases (*84%*) were completed by male players, but the average value of each purchase was smaller than those identifying as female/other/non-disclosed
 1. The largest age demographic of the purchases was those falling into the 20 - 24 year age bin (*45%*), this age group was also in the top three for the average amount spent per person
 1. The two most popular items are also the most profitable, *Final Critic* and *Oathbreaker, Last Hope of the Breaking Storm*
+
+note: I also attempted PyCitySchools, but my values in the last three sections do not match the given tables, so it is not part of my submission.
